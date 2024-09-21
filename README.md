@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **flutter and ai/ml projects**
 
-- 📫 How to reach me **ap4162378@gmail.com**
+- 📫 How to reach me **anandpandey1040@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
