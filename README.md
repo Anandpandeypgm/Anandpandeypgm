@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpandeypgm&label=Profile%20views&color=0e75b6&style=flat" alt="anandpandeypgm" /> </p>
 
-- 🔭 I’m currently working on [mEarningPro](https://www.expodeveloper.com/p/mearning-app.html)
+- 🔭 I’m currently working on [uGamer](https://www.expodeveloper.com/p/mearning-app.html)
 
 - 👯 I’m looking to collaborate on **flutter and ai/ml projects**
 
